@@ -1,0 +1,22 @@
+{
+  "name": "cypress-mocha-new",
+  "version": "1.0.0",
+  "description": "cypress cicd project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abthakur1/cypress-mocha-new.git"
+  },
+  "author": "abhishek thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abthakur1/cypress-mocha-new/issues"
+  },
+  "homepage": "https://github.com/Abthakur1/cypress-mocha-new#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
