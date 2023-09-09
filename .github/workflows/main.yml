@@ -1,7 +1,3 @@
-Cypress Continous integration:
-
-Cypress-mocha-automation\.github\workflows
-
 name: CI/CD Cypress Tests
 
 on: [push]
